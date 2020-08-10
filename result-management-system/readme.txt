@@ -1,4 +1,4 @@
-=== JP Students Result Management System ===
+===Result Management System ===
 Contributors: Skjoy
 Tags: student result, student, result, result management system,  academic, academic result, university, education, ajax, student result management system
 Requires at least: 3.8
