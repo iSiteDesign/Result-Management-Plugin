@@ -1,0 +1,100 @@
+
+form#result-form label {
+	display: block;
+}
+
+div.form-row {
+  margin-bottom: 10px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+text-align: center;
+
+padding: 15px;
+}
+
+input#exam-reg, select#exam-school, select#exam-class {
+  margin-top: 10px;
+}
+
+input#exam-reg {
+	 width: 100%;
+}
+
+select#exam-school, select#exam-class {
+  border: 1px solid #ddd;
+  width: 100%;
+  padding: 10px;
+}
+
+/*
+
+input.result-submit-btn {
+  background-color: #006dcc !important;
+  cursor: pointer !important;
+  background-image: linear-gradient(to bottom, #08c, #04c) !important;
+  background-repeat: repeat-x !important;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25) !important;
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25) !important;
+}
+*/
+
+.loader {
+	display:none;
+	margin-left: 10px;
+    background: none !important;
+    padding: 0px !important;
+    border: 0px !important;
+    box-shadow: none !important;
+    vertical-align: middle;
+}
+
+div.result-container {
+	margin-top: 10px !important;
+}
+
+table.student-info {
+	width: 100% !important;
+	border: 1px solid #ddd;
+}
+
+table.student-info td {
+	padding: 5px !important;
+	border: 3px solid #fff;
+	width: 50% !important;
+}
+.jsrms-result {
+        margin-bottom: 25px;
+      }
+
+.form-div {
+
+border-radius: 10px;
+
+box-shadow: 0px 0px 52px
+#00000029;
+
+margin-left: auto;
+
+margin-right: auto;
+
+margin: 60px auto;
+text-align: center;
+padding: 28px;
+}
+
+.result-submit-btn {
+  background:#162c50;
+border: 0;
+color:#fff;
+}
+.result_footer {
+  display: none;
+  text-align: center;
+}
+.result_footer img {
+  
+}
